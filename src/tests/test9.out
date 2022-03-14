@@ -1,0 +1,1184 @@
+****** In arena intra Octavian si Nicu ******
+###########################################
+###############  Luptele 1  ###############
+###########################################
+
+------ Se lupta Psyduck cu Neutrel2 ------
+Psyduck {HP[43], AN[3], Def[3], SDef[3]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[43], AN[9], Def[4], SDef[3]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+
+Runda 1
+Psyduck HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel2 HP [20]
+
+Psyduck foloseste abilitate2 -> 2
+Neutrel2 foloseste atac normal -> 0
+
+Runda 2
+Psyduck HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Neutrel2 HP [18]
+Stunned
+
+Neutrel2 este stunned
+Psyduck foloseste abilitate1 -> 2
+
+Runda 3
+Psyduck HP [43]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+
+Neutrel2 HP [16]
+
+Psyduck foloseste atac normal -> 8
+Neutrel2 foloseste atac normal -> 0
+
+Runda 4
+Psyduck HP [43]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Neutrel2 HP [8]
+
+Psyduck foloseste atac normal -> 8
+Neutrel2 foloseste atac normal -> 0
+
+---------> A castigat Psyduck <---------
+Psyduck {HP[43], AN[3], Def[3], SDef[3]}
+				  V
+Psyduck {HP[44], AN[4], Def[4], SDef[4]}
+
+
+------ Se lupta Snorlax cu Neutrel2 ------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[62], AN[6], Def[7], SDef[7]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+
+Runda 1
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel2 HP [20]
+
+Snorlax foloseste abilitate2 -> 0
+Neutrel2 foloseste atac normal -> 0
+
+Runda 2
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Neutrel2 HP [20]
+
+Snorlax foloseste abilitate1 -> 4
+Neutrel2 foloseste atac normal -> 0
+
+Runda 3
+Snorlax HP [62]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Neutrel2 HP [16]
+Stunned
+
+Neutrel2 este stunned
+Snorlax foloseste atac normal -> 5
+
+Runda 4
+Snorlax HP [62]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Neutrel2 HP [11]
+
+Snorlax foloseste atac normal -> 5
+Neutrel2 foloseste atac normal -> 0
+
+Runda 5
+Snorlax HP [62]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Neutrel2 HP [6]
+
+Snorlax foloseste atac normal -> 5
+Neutrel2 foloseste atac normal -> 0
+
+Runda 6
+Snorlax HP [62]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Neutrel2 HP [1]
+
+Snorlax foloseste atac normal -> 5
+Neutrel2 foloseste atac normal -> 0
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+				  V
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+
+###########################################
+###############  Luptele 2  ###############
+###########################################
+
+------ Se lupta Psyduck cu Neutrel1 ------
+Psyduck {HP[44], AN[4], Def[4], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[44], AN[10], Def[5], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Psyduck HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Psyduck foloseste abilitate2 -> 2
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Psyduck HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Neutrel1 HP [8]
+Stunned
+
+Neutrel1 este stunned
+Psyduck foloseste atac normal -> 9
+
+---------> A castigat Psyduck <---------
+Psyduck {HP[44], AN[4], Def[4], SDef[4]}
+				  V
+Psyduck {HP[45], AN[5], Def[5], SDef[5]}
+
+
+------ Se lupta Snorlax cu Neutrel1 ------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[63], AN[7], Def[8], SDef[8]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Snorlax foloseste abilitate2 -> 0
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Neutrel1 HP [10]
+
+Snorlax foloseste atac normal -> 6
+Neutrel1 foloseste atac normal -> 0
+
+Runda 3
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Neutrel1 HP [4]
+
+Snorlax foloseste atac normal -> 6
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+				  V
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+
+###########################################
+###############  Luptele 3  ###############
+###########################################
+
+------ Se lupta Psyduck cu Neutrel2 ------
+Psyduck {HP[45], AN[5], Def[5], SDef[5]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[45], AN[11], Def[6], SDef[5]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+
+Runda 1
+Psyduck HP [45]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel2 HP [20]
+
+Psyduck foloseste abilitate1 -> 2
+Neutrel2 foloseste atac normal -> 0
+
+Runda 2
+Psyduck HP [45]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Neutrel2 HP [18]
+
+Psyduck foloseste abilitate2 -> 2
+Neutrel2 foloseste atac normal -> 0
+
+Runda 3
+Psyduck HP [45]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+
+Neutrel2 HP [16]
+Stunned
+
+Neutrel2 este stunned
+Psyduck foloseste atac normal -> 10
+
+Runda 4
+Psyduck HP [45]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Neutrel2 HP [6]
+
+Psyduck foloseste atac normal -> 10
+Neutrel2 foloseste atac normal -> 0
+
+---------> A castigat Psyduck <---------
+Psyduck {HP[45], AN[5], Def[5], SDef[5]}
+				  V
+Psyduck {HP[46], AN[6], Def[6], SDef[6]}
+
+
+------ Se lupta Snorlax cu Neutrel2 ------
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[64], AN[8], Def[9], SDef[9]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+
+Runda 1
+Snorlax HP [64]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel2 HP [20]
+
+Snorlax foloseste abilitate1 -> 4
+Neutrel2 foloseste atac normal -> 0
+
+Runda 2
+Snorlax HP [64]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Neutrel2 HP [16]
+Stunned
+
+Neutrel2 este stunned
+Snorlax foloseste atac normal -> 7
+
+Runda 3
+Snorlax HP [64]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Neutrel2 HP [9]
+
+Snorlax foloseste abilitate2 -> 0
+Neutrel2 foloseste atac normal -> 0
+
+Runda 4
+Snorlax HP [64]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Neutrel2 HP [9]
+
+Snorlax foloseste atac normal -> 7
+Neutrel2 foloseste atac normal -> 0
+
+Runda 5
+Snorlax HP [64]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Neutrel2 HP [2]
+
+Snorlax foloseste atac normal -> 7
+Neutrel2 foloseste atac normal -> 0
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+				  V
+Snorlax {HP[65], AN[6], Def[9], SDef[7]}
+
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Meowth cu Jigglypuff ------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Meowth {HP[41], AN[6], Def[7], SDef[7]}
+Jigglypuff {HP[34], AN[10], Def[5], SDef[5]}
+
+Runda 1
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate2 -> 1
+Jigglypuff foloseste atac normal -> 3
+
+Runda 2
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Dodged 
+
+Jigglypuff HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 1
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 3
+Meowth HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Jigglypuff HP [32]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 4
+Meowth HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Jigglypuff HP [32]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 5
+Meowth HP [34]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged Stunned
+
+Jigglypuff HP [27]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 6
+Meowth HP [31]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Jigglypuff HP [27]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Meowth foloseste abilitate2 -> 1
+Jigglypuff foloseste atac normal -> 3
+
+Runda 7
+Meowth HP [31]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Dodged 
+
+Jigglypuff HP [26]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Meowth foloseste atac normal -> 1
+Jigglypuff foloseste atac normal -> 3
+
+Runda 8
+Meowth HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Jigglypuff HP [25]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Meowth foloseste atac normal -> 1
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 9
+Meowth HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Jigglypuff HP [24]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 10
+Meowth HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [24]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 11
+Meowth HP [21]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged Stunned
+
+Jigglypuff HP [19]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 12
+Meowth HP [18]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Jigglypuff HP [19]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Meowth foloseste atac normal -> 1
+Jigglypuff foloseste atac normal -> 3
+
+Runda 13
+Meowth HP [15]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Meowth foloseste abilitate2 -> 1
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 14
+Meowth HP [15]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged Stunned
+
+Jigglypuff HP [17]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 15
+Meowth HP [12]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 16
+Meowth HP [12]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged Stunned
+
+Jigglypuff HP [12]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 17
+Meowth HP [9]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Jigglypuff HP [12]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Meowth foloseste atac normal -> 1
+Jigglypuff foloseste atac normal -> 3
+
+Runda 18
+Meowth HP [6]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff HP [11]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Meowth foloseste abilitate2 -> 1
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 19
+Meowth HP [6]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged Stunned
+
+Jigglypuff HP [10]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 20
+Meowth HP [3]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff HP [10]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Jigglypuff foloseste atac normal -> 3
+
+Runda 21
+Meowth HP [3]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged 
+
+Jigglypuff HP [5]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 1
+Jigglypuff foloseste atac normal -> 3
+
+---------> A castigat Jigglypuff <---------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+				  V
+Jigglypuff {HP[35], AN[5], Def[3], SDef[4]}
+
+
+------ Se lupta Bulbasaur cu Eevee ------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[52], AS[5], Def[4], SDef[1]}
+Eevee {HP[41], AS[6], Def[3], SDef[6]}
+
+Runda 1
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee HP [39]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 0
+Eevee foloseste abilitate1 -> 5
+
+Runda 2
+Bulbasaur HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee HP [39]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Eevee foloseste abilitate2 -> 3
+
+Runda 3
+Bulbasaur HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Eevee HP [34]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Bulbasaur este stunned
+Eevee foloseste atac special -> 5
+
+Runda 4
+Bulbasaur HP [29]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee HP [34]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Bulbasaur foloseste abilitate1 -> 6
+Eevee foloseste atac special -> 5
+
+Runda 5
+Bulbasaur HP [24]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Eevee HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Bulbasaur foloseste atac special -> 0
+Eevee foloseste atac special -> 5
+
+Runda 6
+Bulbasaur HP [19]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 0
+Eevee foloseste atac special -> 5
+
+Runda 7
+Bulbasaur HP [14]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Eevee HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Eevee foloseste abilitate1 -> 5
+
+Runda 8
+Bulbasaur HP [9]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Eevee HP [23]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 0
+Eevee foloseste abilitate2 -> 3
+
+Runda 9
+Bulbasaur HP [6]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Eevee HP [23]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Bulbasaur este stunned
+Eevee foloseste atac special -> 5
+
+Runda 10
+Bulbasaur HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee HP [23]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Bulbasaur foloseste atac special -> 0
+Eevee foloseste atac special -> 5
+
+---------> A castigat Eevee <---------
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+				  V
+Eevee {HP[40], AS[5], Def[4], SDef[4]}
+
+
+------ Se lupta Psyduck cu Snorlax ------
+Psyduck {HP[46], AN[6], Def[6], SDef[6]}
+Snorlax {HP[65], AN[6], Def[9], SDef[7]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[46], AN[12], Def[7], SDef[6]}
+Snorlax {HP[65], AN[9], Def[10], SDef[10]}
+
+Runda 1
+Psyduck HP [46]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax HP [65]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 2
+Psyduck HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Stunned
+
+Snorlax HP [63]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+Stunned
+
+Psyduck este stunned
+Snorlax este stunned
+
+Runda 3
+Psyduck HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [63]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 4
+Psyduck HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [61]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste abilitate2 -> 0
+
+Runda 5
+Psyduck HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax HP [61]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 6
+Psyduck HP [38]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [59]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 7
+Psyduck HP [36]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 8
+Psyduck HP [32]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Stunned
+
+Snorlax HP [55]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+Stunned
+
+Psyduck este stunned
+Snorlax este stunned
+
+Runda 9
+Psyduck HP [32]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Snorlax HP [55]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 10
+Psyduck HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [53]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 11
+Psyduck HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax HP [51]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 12
+Psyduck HP [26]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [49]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste abilitate2 -> 0
+
+Runda 13
+Psyduck HP [26]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 14
+Psyduck HP [22]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Stunned
+
+Snorlax HP [47]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+Stunned
+
+Psyduck este stunned
+Snorlax este stunned
+
+Runda 15
+Psyduck HP [22]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Snorlax HP [47]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 16
+Psyduck HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [45]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 17
+Psyduck HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax HP [43]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 18
+Psyduck HP [16]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [41]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste abilitate2 -> 0
+
+Runda 19
+Psyduck HP [16]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 20
+Psyduck HP [12]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Stunned
+
+Snorlax HP [39]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+Stunned
+
+Psyduck este stunned
+Snorlax este stunned
+
+Runda 21
+Psyduck HP [12]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Snorlax HP [39]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 22
+Psyduck HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [37]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 23
+Psyduck HP [8]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 24
+Psyduck HP [6]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [33]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 2
+
+Runda 25
+Psyduck HP [4]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[65], AN[6], Def[9], SDef[7]}
+				  V
+Snorlax {HP[66], AN[7], Def[10], SDef[8]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Psyduck cu Snorlax ------
+Psyduck {HP[46], AN[6], Def[6], SDef[6]}
+Snorlax {HP[66], AN[7], Def[10], SDef[8]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[46], AN[12], Def[7], SDef[6]}
+Snorlax {HP[66], AN[10], Def[11], SDef[11]}
+
+Runda 1
+Psyduck HP [46]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax HP [66]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 2
+Psyduck HP [42]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Stunned
+
+Snorlax HP [64]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Psyduck este stunned
+Snorlax foloseste abilitate2 -> 0
+
+Runda 3
+Psyduck HP [42]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [64]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 4
+Psyduck HP [39]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Snorlax HP [62]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+Stunned
+
+Snorlax este stunned
+Psyduck foloseste atac normal -> 1
+
+Runda 5
+Psyduck HP [39]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Snorlax HP [61]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste atac normal -> 3
+
+Runda 6
+Psyduck HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [60]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 7
+Psyduck HP [33]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [58]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste atac normal -> 3
+
+Runda 8
+Psyduck HP [30]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste abilitate2 -> 0
+
+Runda 9
+Psyduck HP [30]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 10
+Psyduck HP [27]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+
+Snorlax HP [55]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+Stunned
+
+Snorlax este stunned
+Psyduck foloseste atac normal -> 1
+
+Runda 11
+Psyduck HP [27]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [54]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste abilitate1 -> 4
+
+Runda 12
+Psyduck HP [23]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Snorlax HP [53]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Psyduck este stunned
+Snorlax foloseste atac normal -> 3
+
+Runda 13
+Psyduck HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax HP [53]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 14
+Psyduck HP [17]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [51]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste abilitate2 -> 0
+
+Runda 15
+Psyduck HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [51]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste atac normal -> 3
+
+Runda 16
+Psyduck HP [14]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [50]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 17
+Psyduck HP [11]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+
+Snorlax HP [48]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Snorlax este stunned
+Psyduck foloseste atac normal -> 1
+
+Runda 18
+Psyduck HP [11]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [47]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Psyduck foloseste abilitate1 -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 19
+Psyduck HP [7]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+Stunned
+
+Snorlax HP [45]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Psyduck este stunned
+Snorlax foloseste atac normal -> 3
+
+Runda 20
+Psyduck HP [4]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Snorlax HP [45]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste abilitate2 -> 0
+
+Runda 21
+Psyduck HP [4]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Snorlax HP [45]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Psyduck foloseste atac normal -> 1
+Snorlax foloseste atac normal -> 3
+
+Runda 22
+Psyduck HP [1]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax HP [44]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Psyduck foloseste abilitate2 -> 2
+Snorlax foloseste atac normal -> 3
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[66], AN[7], Def[10], SDef[8]}
+				  V
+Snorlax {HP[67], AN[8], Def[11], SDef[9]}
+
+##  Nicu a iesit castigator din arena  ##

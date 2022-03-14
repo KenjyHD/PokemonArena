@@ -1,0 +1,1774 @@
+****** In arena intra Ion si Vladislav ******
+###########################################
+###############  Luptele 1  ###############
+###########################################
+
+------ Se lupta Vulpix cu Neutrel1 ------
+Vulpix {HP[36], AN[5], Def[2], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Vulpix {HP[36], AN[8], Def[3], SDef[7]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Vulpix foloseste abilitate2 -> 2
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [7]
+Dodged 
+
+Neutrel1 HP [8]
+
+Vulpix foloseste atac normal -> 7
+Neutrel1 foloseste atac normal -> 0
+
+Runda 3
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Neutrel1 HP [1]
+
+Vulpix foloseste abilitate1 -> 8
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Vulpix <---------
+Vulpix {HP[36], AN[5], Def[2], SDef[4]}
+				  V
+Vulpix {HP[37], AN[6], Def[3], SDef[5]}
+
+
+------ Se lupta Snorlax cu Neutrel1 ------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[72], AN[6], Def[6], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Snorlax foloseste atac normal -> 5
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [5]
+
+Snorlax foloseste abilitate1 -> 4
+Neutrel1 foloseste atac normal -> 0
+
+Runda 3
+Snorlax HP [62]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Neutrel1 HP [1]
+Stunned
+
+Neutrel1 este stunned
+Snorlax foloseste abilitate2 -> 0
+
+Runda 4
+Snorlax HP [62]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+Dodged 
+
+Neutrel1 HP [1]
+
+Snorlax foloseste atac normal -> 5
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+				  V
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+
+###########################################
+###############  Luptele 2  ###############
+###########################################
+
+------ Se lupta Snorlax cu Neutrel1 ------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[74], AN[5], Def[6], SDef[7]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Snorlax foloseste atac normal -> 4
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [6]
+
+Snorlax foloseste abilitate1 -> 4
+Neutrel1 foloseste atac normal -> 0
+
+Runda 3
+Snorlax HP [62]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Neutrel1 HP [2]
+Stunned
+
+Neutrel1 este stunned
+Snorlax foloseste abilitate2 -> 0
+
+Runda 4
+Snorlax HP [62]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+Dodged 
+
+Neutrel1 HP [2]
+
+Snorlax foloseste atac normal -> 4
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+				  V
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+
+
+------ Se lupta Bulbasaur cu Neutrel1 ------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[52], AS[5], Def[4], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Bulbasaur foloseste abilitate2 -> 5
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Neutrel1 HP [5]
+
+Bulbasaur foloseste abilitate1 -> 6
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Bulbasaur <---------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+				  V
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+
+###########################################
+###############  Luptele 3  ###############
+###########################################
+
+------ Se lupta Vulpix cu Neutrel1 ------
+Vulpix {HP[37], AN[6], Def[3], SDef[5]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Vulpix {HP[37], AN[9], Def[4], SDef[8]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Vulpix HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Vulpix foloseste abilitate2 -> 2
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Vulpix HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [7]
+Dodged 
+
+Neutrel1 HP [8]
+
+Vulpix foloseste atac normal -> 8
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Vulpix <---------
+Vulpix {HP[37], AN[6], Def[3], SDef[5]}
+				  V
+Vulpix {HP[38], AN[7], Def[4], SDef[6]}
+
+
+------ Se lupta Snorlax cu Neutrel1 ------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[73], AN[7], Def[7], SDef[5]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Snorlax foloseste abilitate2 -> 0
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Neutrel1 HP [10]
+
+Snorlax foloseste abilitate1 -> 4
+Neutrel1 foloseste atac normal -> 0
+
+Runda 3
+Snorlax HP [63]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Neutrel1 HP [6]
+Stunned
+
+Neutrel1 este stunned
+Snorlax foloseste atac normal -> 6
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+				  V
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Snorlax cu Bulbasaur ------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[75], AN[6], Def[7], SDef[8]}
+Bulbasaur {HP[53], AS[6], Def[5], SDef[5]}
+
+Runda 1
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 2
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 3
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 4
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 5
+Snorlax HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Bulbasaur HP [40]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate1 -> 4
+Bulbasaur foloseste atac special -> 0
+
+Runda 6
+Snorlax HP [57]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Bulbasaur HP [36]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Bulbasaur este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 7
+Snorlax HP [57]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Bulbasaur HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 8
+Snorlax HP [57]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur HP [34]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 9
+Snorlax HP [57]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 10
+Snorlax HP [57]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Bulbasaur HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 11
+Snorlax HP [51]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur HP [32]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax foloseste abilitate1 -> 4
+Bulbasaur foloseste atac special -> 0
+
+Runda 12
+Snorlax HP [51]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Bulbasaur HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Bulbasaur este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 13
+Snorlax HP [51]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Bulbasaur HP [27]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 14
+Snorlax HP [51]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur HP [26]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 15
+Snorlax HP [51]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [26]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 16
+Snorlax HP [45]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Bulbasaur HP [25]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 17
+Snorlax HP [45]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur HP [24]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax foloseste abilitate1 -> 4
+Bulbasaur foloseste atac special -> 0
+
+Runda 18
+Snorlax HP [45]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Bulbasaur HP [20]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Bulbasaur este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 19
+Snorlax HP [45]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Bulbasaur HP [19]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 20
+Snorlax HP [40]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste abilitate2 -> 0
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 21
+Snorlax HP [40]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [18]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 22
+Snorlax HP [40]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Bulbasaur HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 23
+Snorlax HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur HP [16]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax foloseste abilitate1 -> 4
+Bulbasaur foloseste atac special -> 0
+
+Runda 24
+Snorlax HP [40]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Bulbasaur HP [12]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+Stunned
+
+Bulbasaur este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 25
+Snorlax HP [40]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Bulbasaur HP [11]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 26
+Snorlax HP [35]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 27
+Snorlax HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Bulbasaur HP [9]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 28
+Snorlax HP [35]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Bulbasaur HP [8]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste abilitate2 -> 0
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 29
+Snorlax HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [8]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate1 -> 4
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 30
+Snorlax HP [30]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Bulbasaur HP [4]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+Stunned
+
+Bulbasaur este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 31
+Snorlax HP [30]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Bulbasaur HP [3]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 32
+Snorlax HP [30]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Bulbasaur HP [2]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste atac special -> 0
+
+Runda 33
+Snorlax HP [30]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Bulbasaur HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+				  V
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+
+
+------ Se lupta Vulpix cu Snorlax ------
+Vulpix {HP[38], AN[7], Def[4], SDef[6]}
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+--- Caracteristici cu obiecte echipate ---
+Vulpix {HP[38], AN[10], Def[5], SDef[9]}
+Snorlax {HP[74], AN[8], Def[8], SDef[6]}
+
+Runda 1
+Vulpix HP [38]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax HP [64]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 2
+Vulpix HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Snorlax HP [62]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Vulpix este stunned
+Snorlax foloseste abilitate2 -> 0
+
+Runda 3
+Vulpix HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax HP [62]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+Dodged 
+
+Vulpix foloseste abilitate2 -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 4
+Vulpix HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [7]
+Dodged 
+
+Snorlax HP [60]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 5
+Vulpix HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Snorlax HP [58]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Vulpix foloseste abilitate1 -> 8
+Snorlax foloseste atac normal -> 3
+
+Runda 6
+Vulpix HP [28]
+CDs: Abilitate1 [6] / Abilitate2 [5]
+
+Snorlax HP [50]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+Stunned
+
+Snorlax este stunned
+Vulpix foloseste atac normal -> 2
+
+Runda 7
+Vulpix HP [28]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Snorlax HP [48]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 8
+Vulpix HP [25]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Snorlax HP [46]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 9
+Vulpix HP [21]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+Stunned
+
+Snorlax HP [44]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Vulpix este stunned
+Snorlax foloseste atac normal -> 3
+
+Runda 10
+Vulpix HP [18]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Snorlax HP [44]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste abilitate2 -> 0
+
+Runda 11
+Vulpix HP [18]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax HP [44]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 12
+Vulpix HP [15]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax HP [42]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Vulpix foloseste abilitate1 -> 8
+Snorlax foloseste atac normal -> 3
+
+Runda 13
+Vulpix HP [12]
+CDs: Abilitate1 [6] / Abilitate2 [0]
+
+Snorlax HP [34]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Snorlax este stunned
+Vulpix foloseste abilitate2 -> 2
+
+Runda 14
+Vulpix HP [12]
+CDs: Abilitate1 [5] / Abilitate2 [7]
+Dodged 
+
+Snorlax HP [32]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste abilitate1 -> 4
+
+Runda 15
+Vulpix HP [8]
+CDs: Abilitate1 [4] / Abilitate2 [6]
+Stunned
+
+Snorlax HP [30]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Vulpix este stunned
+Snorlax foloseste atac normal -> 3
+
+Runda 16
+Vulpix HP [5]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+
+Snorlax HP [30]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 3
+
+Runda 17
+Vulpix HP [2]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Snorlax HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste abilitate2 -> 0
+
+Runda 18
+Vulpix HP [2]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Snorlax HP [28]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Vulpix foloseste atac normal -> 2
+Snorlax foloseste atac normal -> 3
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+				  V
+Snorlax {HP[65], AN[6], Def[9], SDef[7]}
+
+
+------ Se lupta Psyduck cu Jigglypuff ------
+Psyduck {HP[43], AN[3], Def[3], SDef[3]}
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[43], AN[6], Def[6], SDef[8]}
+Jigglypuff {HP[36], AN[9], Def[4], SDef[5]}
+
+Runda 1
+Psyduck HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 2
+Psyduck HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Jigglypuff HP [32]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Psyduck este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 3
+Psyduck HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Jigglypuff HP [32]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Psyduck este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 4
+Psyduck HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [32]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Psyduck foloseste abilitate1 -> 2
+Jigglypuff foloseste atac normal -> 3
+
+Runda 5
+Psyduck HP [30]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Jigglypuff HP [30]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Psyduck foloseste abilitate2 -> 2
+Jigglypuff foloseste atac normal -> 3
+
+Runda 6
+Psyduck HP [27]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+
+Jigglypuff HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+Stunned
+
+Jigglypuff este stunned
+Psyduck foloseste atac normal -> 2
+
+Runda 7
+Psyduck HP [27]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Jigglypuff HP [26]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Jigglypuff foloseste atac normal -> 3
+
+Runda 8
+Psyduck HP [24]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Jigglypuff HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 9
+Psyduck HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Jigglypuff HP [22]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Psyduck este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 10
+Psyduck HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Jigglypuff HP [22]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Psyduck foloseste abilitate1 -> 2
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 11
+Psyduck HP [14]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Stunned
+
+Jigglypuff HP [20]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Psyduck este stunned
+Jigglypuff foloseste atac normal -> 3
+
+Runda 12
+Psyduck HP [11]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Jigglypuff HP [20]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Psyduck foloseste abilitate2 -> 2
+Jigglypuff foloseste atac normal -> 3
+
+Runda 13
+Psyduck HP [8]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Jigglypuff HP [18]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Jigglypuff este stunned
+Psyduck foloseste atac normal -> 2
+
+Runda 14
+Psyduck HP [8]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Jigglypuff HP [16]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 2
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 15
+Psyduck HP [5]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Jigglypuff HP [14]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Psyduck este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 16
+Psyduck HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Jigglypuff HP [14]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Psyduck este stunned
+Jigglypuff foloseste atac normal -> 3
+
+---------> A castigat Jigglypuff <---------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+				  V
+Jigglypuff {HP[35], AN[5], Def[3], SDef[4]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Snorlax cu Snorlax ------
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+Snorlax {HP[65], AN[6], Def[9], SDef[7]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[76], AN[7], Def[8], SDef[9]}
+Snorlax {HP[75], AN[9], Def[9], SDef[7]}
+
+Runda 1
+Snorlax HP [64]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax HP [65]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 2
+Snorlax HP [64]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged Stunned
+
+Snorlax HP [65]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Snorlax este stunned
+Snorlax foloseste abilitate2 -> 0
+
+Runda 3
+Snorlax HP [64]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [65]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 4
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [65]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 5
+Snorlax HP [62]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Snorlax HP [61]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 6
+Snorlax HP [62]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [61]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 7
+Snorlax HP [61]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [61]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 8
+Snorlax HP [57]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Snorlax HP [61]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 9
+Snorlax HP [56]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax HP [61]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 10
+Snorlax HP [56]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [61]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 11
+Snorlax HP [55]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [61]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 12
+Snorlax HP [54]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Snorlax HP [57]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 13
+Snorlax HP [54]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 14
+Snorlax HP [50]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Snorlax HP [57]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 15
+Snorlax HP [49]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [57]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 16
+Snorlax HP [49]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [57]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 17
+Snorlax HP [48]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [57]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 18
+Snorlax HP [47]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Snorlax HP [53]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 19
+Snorlax HP [47]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [53]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 20
+Snorlax HP [43]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Snorlax HP [53]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 21
+Snorlax HP [42]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [53]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 22
+Snorlax HP [42]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [53]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 23
+Snorlax HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [53]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 24
+Snorlax HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [53]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 25
+Snorlax HP [39]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Snorlax HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 26
+Snorlax HP [39]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 27
+Snorlax HP [38]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 28
+Snorlax HP [38]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 29
+Snorlax HP [38]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged Stunned
+
+Snorlax HP [49]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 30
+Snorlax HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [49]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 31
+Snorlax HP [36]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Snorlax HP [45]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 32
+Snorlax HP [36]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [45]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 33
+Snorlax HP [35]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax HP [45]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 34
+Snorlax HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [45]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 35
+Snorlax HP [35]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged Stunned
+
+Snorlax HP [45]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 36
+Snorlax HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [45]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 37
+Snorlax HP [33]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Snorlax HP [41]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 38
+Snorlax HP [33]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [41]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 39
+Snorlax HP [32]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax HP [41]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 40
+Snorlax HP [31]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 41
+Snorlax HP [31]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 42
+Snorlax HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged Stunned
+
+Snorlax HP [41]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 43
+Snorlax HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [41]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 44
+Snorlax HP [29]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Snorlax HP [37]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 45
+Snorlax HP [29]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [37]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 46
+Snorlax HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax HP [37]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 47
+Snorlax HP [27]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 48
+Snorlax HP [27]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 49
+Snorlax HP [26]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 50
+Snorlax HP [26]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 51
+Snorlax HP [25]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Snorlax HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 52
+Snorlax HP [25]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 53
+Snorlax HP [24]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Snorlax HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 54
+Snorlax HP [20]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Snorlax HP [33]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 55
+Snorlax HP [19]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax HP [33]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 56
+Snorlax HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 57
+Snorlax HP [18]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Snorlax HP [29]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 58
+Snorlax HP [18]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Snorlax HP [29]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 59
+Snorlax HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Snorlax HP [29]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 60
+Snorlax HP [13]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+Stunned
+
+Snorlax HP [29]
+CDs: Abilitate1 [5] / Abilitate2 [1]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 61
+Snorlax HP [12]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Snorlax HP [29]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 62
+Snorlax HP [12]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [29]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 63
+Snorlax HP [11]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [29]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 64
+Snorlax HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax HP [29]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 65
+Snorlax HP [9]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Snorlax HP [25]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 66
+Snorlax HP [9]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Snorlax HP [25]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+Runda 67
+Snorlax HP [5]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Snorlax HP [25]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 1
+
+Runda 68
+Snorlax HP [4]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax HP [25]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Snorlax foloseste abilitate2 -> 0
+
+Runda 69
+Snorlax HP [4]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged 
+
+Snorlax HP [25]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste atac normal -> 1
+
+Runda 70
+Snorlax HP [3]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax HP [25]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Snorlax foloseste abilitate1 -> 4
+Snorlax foloseste atac normal -> 1
+
+Runda 71
+Snorlax HP [2]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Snorlax HP [21]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Snorlax este stunned
+Snorlax foloseste atac normal -> 0
+
+Runda 72
+Snorlax HP [2]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 0
+Snorlax foloseste abilitate1 -> 4
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[65], AN[6], Def[9], SDef[7]}
+				  V
+Snorlax {HP[66], AN[7], Def[10], SDef[8]}
+
+##  Vladislav a iesit castigator din arena  ##

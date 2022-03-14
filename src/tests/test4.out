@@ -1,0 +1,761 @@
+****** In arena intra Alexandru si Daniel ******
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Meowth cu Charmander ------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+Charmander {HP[50], AN[4], Def[3], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Meowth {HP[41], AN[6], Def[6], SDef[4]}
+Charmander {HP[62], AN[6], Def[3], SDef[2]}
+
+Runda 1
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 2
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste atac normal -> 0
+
+Runda 3
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [46]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste abilitate2 -> 7
+
+Runda 4
+Meowth HP [41]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged 
+
+Charmander HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste abilitate1 -> 4
+
+Runda 5
+Meowth HP [37]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Charmander HP [38]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 6
+Meowth HP [37]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Charmander HP [38]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste atac normal -> 0
+
+Runda 7
+Meowth HP [37]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Charmander HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 8
+Meowth HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [34]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste atac normal -> 0
+
+Runda 9
+Meowth HP [37]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+Dodged 
+
+Charmander HP [29]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste abilitate1 -> 4
+
+Runda 10
+Meowth HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Charmander HP [26]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 11
+Meowth HP [33]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Charmander HP [26]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste abilitate2 -> 7
+
+Runda 12
+Meowth HP [33]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [25]
+CDs: Abilitate1 [2] / Abilitate2 [6]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste atac normal -> 0
+
+Runda 13
+Meowth HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [22]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste atac normal -> 0
+
+Runda 14
+Meowth HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Charmander HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste abilitate1 -> 4
+
+Runda 15
+Meowth HP [33]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged Stunned
+
+Charmander HP [14]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 16
+Meowth HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Charmander HP [14]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 17
+Meowth HP [33]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [13]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste atac normal -> 0
+
+Runda 18
+Meowth HP [33]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Charmander HP [10]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste atac normal -> 0
+
+Runda 19
+Meowth HP [33]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Charmander HP [7]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste abilitate2 -> 7
+
+Runda 20
+Meowth HP [33]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged 
+
+Charmander HP [2]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 21
+Meowth HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Meowth foloseste atac normal -> 3
+Charmander foloseste abilitate1 -> 4
+
+---------> A castigat Meowth <---------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+				  V
+Meowth {HP[42], AN[4], Def[5], SDef[3]}
+
+
+------ Se lupta Jigglypuff cu Meowth ------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Jigglypuff {HP[36], AN[9], Def[4], SDef[5]}
+Meowth {HP[41], AN[6], Def[5], SDef[5]}
+
+Runda 1
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste abilitate2 -> 3
+Meowth foloseste abilitate1 -> 5
+
+Runda 2
+Jigglypuff HP [29]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Meowth HP [41]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged Stunned
+
+Meowth este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 3
+Jigglypuff HP [29]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Meowth HP [37]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 4
+Jigglypuff HP [29]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Meowth HP [33]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Meowth foloseste abilitate2 -> 1
+
+Runda 5
+Jigglypuff HP [28]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Meowth HP [33]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Jigglypuff foloseste atac normal -> 4
+Meowth foloseste atac normal -> 2
+
+Runda 6
+Jigglypuff HP [26]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Meowth HP [29]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff foloseste abilitate2 -> 3
+Meowth foloseste abilitate1 -> 5
+
+Runda 7
+Jigglypuff HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Meowth HP [29]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged Stunned
+
+Meowth este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 8
+Jigglypuff HP [21]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Meowth HP [25]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 9
+Jigglypuff HP [21]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Meowth HP [21]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Meowth foloseste abilitate2 -> 1
+
+Runda 10
+Jigglypuff HP [20]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Meowth HP [21]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Jigglypuff foloseste atac normal -> 4
+Meowth foloseste atac normal -> 2
+
+Runda 11
+Jigglypuff HP [18]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Meowth HP [17]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff foloseste abilitate2 -> 3
+Meowth foloseste atac normal -> 2
+
+Runda 12
+Jigglypuff HP [16]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Meowth HP [14]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Meowth este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 13
+Jigglypuff HP [16]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Meowth HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Meowth este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 14
+Jigglypuff HP [16]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Meowth HP [6]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Meowth foloseste atac normal -> 2
+
+Runda 15
+Jigglypuff HP [14]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Meowth HP [2]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Meowth foloseste atac normal -> 2
+
+---------> A castigat Jigglypuff <---------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+				  V
+Jigglypuff {HP[35], AN[5], Def[3], SDef[4]}
+
+
+------ Se lupta Pikachu cu Bulbasaur ------
+Pikachu {HP[35], AS[4], Def[2], SDef[3]}
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Pikachu {HP[35], AS[4], Def[3], SDef[6]}
+Bulbasaur {HP[42], AS[8], Def[5], SDef[3]}
+
+Runda 1
+Pikachu HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste abilitate1 -> 6
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 2
+Pikachu HP [30]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Bulbasaur HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Pikachu foloseste atac special -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 3
+Pikachu HP [24]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur HP [35]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Pikachu foloseste abilitate2 -> 4
+Bulbasaur foloseste atac special -> 2
+
+Runda 4
+Pikachu HP [24]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [31]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Bulbasaur este stunned
+Pikachu foloseste atac special -> 1
+
+Runda 5
+Pikachu HP [24]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Bulbasaur HP [30]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 6
+Pikachu HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur HP [29]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Pikachu foloseste abilitate1 -> 6
+Bulbasaur foloseste atac special -> 2
+
+Runda 7
+Pikachu HP [17]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Bulbasaur HP [23]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Pikachu foloseste atac special -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 8
+Pikachu HP [11]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Bulbasaur HP [22]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Pikachu foloseste atac special -> 1
+Bulbasaur foloseste atac special -> 2
+
+Runda 9
+Pikachu HP [9]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Bulbasaur HP [21]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Pikachu foloseste abilitate2 -> 4
+Bulbasaur foloseste abilitate2 -> 5
+
+Runda 10
+Pikachu HP [9]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged 
+
+Bulbasaur HP [17]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Stunned
+
+Bulbasaur este stunned
+Pikachu foloseste atac special -> 1
+
+Runda 11
+Pikachu HP [9]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Bulbasaur HP [16]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Pikachu foloseste abilitate1 -> 6
+Bulbasaur foloseste atac special -> 2
+
+Runda 12
+Pikachu HP [7]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Bulbasaur HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Pikachu foloseste atac special -> 1
+Bulbasaur foloseste abilitate1 -> 6
+
+Runda 13
+Pikachu HP [1]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Bulbasaur HP [9]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Bulbasaur foloseste atac special -> 2
+
+---------> A castigat Bulbasaur <---------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+				  V
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Meowth cu Charmander ------
+Meowth {HP[42], AN[4], Def[5], SDef[3]}
+Charmander {HP[50], AN[4], Def[3], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Meowth {HP[42], AN[7], Def[7], SDef[5]}
+Charmander {HP[62], AN[6], Def[3], SDef[2]}
+
+Runda 1
+Meowth HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste abilitate1 -> 4
+
+Runda 2
+Meowth HP [42]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged Stunned
+
+Charmander HP [45]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth este stunned
+Charmander foloseste abilitate2 -> 7
+
+Runda 3
+Meowth HP [35]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Charmander HP [45]
+CDs: Abilitate1 [3] / Abilitate2 [6]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 4
+Meowth HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Charmander HP [41]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 5
+Meowth HP [35]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [40]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 6
+Meowth HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste abilitate1 -> 4
+
+Runda 7
+Meowth HP [35]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged Stunned
+
+Charmander HP [31]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 8
+Meowth HP [35]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Charmander HP [31]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 9
+Meowth HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Charmander HP [27]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 10
+Meowth HP [35]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [26]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 11
+Meowth HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [22]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste abilitate1 -> 4
+
+Runda 12
+Meowth HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Charmander HP [18]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth este stunned
+Charmander foloseste abilitate2 -> 7
+
+Runda 13
+Meowth HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [18]
+CDs: Abilitate1 [3] / Abilitate2 [6]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste atac normal -> 0
+
+Runda 14
+Meowth HP [24]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged 
+
+Charmander HP [13]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 0
+
+Runda 15
+Meowth HP [24]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [12]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 16
+Meowth HP [24]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Charmander HP [8]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste abilitate1 -> 4
+
+Runda 17
+Meowth HP [20]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+Stunned
+
+Charmander HP [4]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 18
+Meowth HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [4]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Meowth foloseste atac normal -> 4
+Charmander foloseste atac normal -> 0
+
+---------> A castigat Meowth <---------
+Meowth {HP[42], AN[4], Def[5], SDef[3]}
+				  V
+Meowth {HP[43], AN[5], Def[6], SDef[4]}
+
+##  Alexandru a iesit castigator din arena  ##

@@ -1,0 +1,575 @@
+****** In arena intra Petru si Silviu ******
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Vulpix cu Squirtle ------
+Vulpix {HP[36], AN[5], Def[2], SDef[4]}
+Squirtle {HP[60], AS[3], Def[5], SDef[5]}
+--- Caracteristici cu obiecte echipate ---
+Vulpix {HP[36], AN[11], Def[3], SDef[4]}
+Squirtle {HP[62], AS[8], Def[5], SDef[8]}
+
+Runda 1
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [60]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste abilitate1 -> 8
+Squirtle foloseste abilitate2 -> 2
+
+Runda 2
+Vulpix HP [34]
+CDs: Abilitate1 [6] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [52]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Vulpix este stunned
+Squirtle este stunned
+
+Runda 3
+Vulpix HP [34]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+
+Squirtle HP [52]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste abilitate1 -> 4
+
+Runda 4
+Vulpix HP [30]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Squirtle HP [46]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Vulpix foloseste abilitate2 -> 2
+Squirtle foloseste abilitate2 -> 2
+
+Runda 5
+Vulpix HP [30]
+CDs: Abilitate1 [3] / Abilitate2 [7]
+Dodged Stunned
+
+Squirtle HP [44]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Vulpix este stunned
+Squirtle foloseste atac special -> 4
+
+Runda 6
+Vulpix HP [26]
+CDs: Abilitate1 [2] / Abilitate2 [6]
+
+Squirtle HP [44]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste atac special -> 4
+
+Runda 7
+Vulpix HP [22]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+
+Squirtle HP [38]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste abilitate1 -> 4
+
+Runda 8
+Vulpix HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Squirtle HP [32]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Vulpix foloseste abilitate1 -> 8
+Squirtle foloseste abilitate2 -> 2
+
+Runda 9
+Vulpix HP [16]
+CDs: Abilitate1 [6] / Abilitate2 [3]
+Stunned
+
+Squirtle HP [24]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+Stunned
+
+Vulpix este stunned
+Squirtle este stunned
+
+Runda 10
+Vulpix HP [16]
+CDs: Abilitate1 [5] / Abilitate2 [2]
+
+Squirtle HP [24]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste atac special -> 4
+
+Runda 11
+Vulpix HP [12]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Squirtle HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste atac special -> 4
+
+Runda 12
+Vulpix HP [8]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Squirtle HP [12]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste atac special -> 4
+
+Runda 13
+Vulpix HP [4]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [6]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste abilitate2 -> 2
+Squirtle foloseste atac special -> 4
+
+Runda 14
+Vulpix HP [4]
+CDs: Abilitate1 [1] / Abilitate2 [7]
+Dodged 
+
+Squirtle HP [4]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix foloseste atac normal -> 6
+Squirtle foloseste abilitate1 -> 4
+
+---------> Egalitate <---------
+
+------ Se lupta Psyduck cu Meowth ------
+Psyduck {HP[43], AN[3], Def[3], SDef[3]}
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[53], AN[6], Def[3], SDef[3]}
+Meowth {HP[43], AN[8], Def[5], SDef[5]}
+
+Runda 1
+Psyduck HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste abilitate2 -> 2
+Meowth foloseste abilitate1 -> 5
+
+Runda 2
+Psyduck HP [38]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Meowth HP [41]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged Stunned
+
+Meowth este stunned
+Psyduck foloseste abilitate1 -> 2
+
+Runda 3
+Psyduck HP [38]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+
+Meowth HP [39]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste abilitate2 -> 1
+
+Runda 4
+Psyduck HP [37]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Meowth HP [39]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Dodged 
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste atac normal -> 5
+
+Runda 5
+Psyduck HP [32]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Meowth HP [38]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste atac normal -> 5
+
+Runda 6
+Psyduck HP [27]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Meowth HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste abilitate1 -> 5
+
+Runda 7
+Psyduck HP [22]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth HP [37]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged 
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste abilitate2 -> 1
+
+Runda 8
+Psyduck HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth HP [37]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+Dodged 
+
+Psyduck foloseste abilitate1 -> 2
+Meowth foloseste atac normal -> 5
+
+Runda 9
+Psyduck HP [16]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste atac normal -> 5
+
+Runda 10
+Psyduck HP [11]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth HP [34]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Psyduck foloseste abilitate2 -> 2
+Meowth foloseste atac normal -> 5
+
+Runda 11
+Psyduck HP [6]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Meowth HP [32]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Meowth este stunned
+Psyduck foloseste atac normal -> 1
+
+Runda 12
+Psyduck HP [6]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Meowth HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck foloseste atac normal -> 1
+Meowth foloseste abilitate1 -> 5
+
+Runda 13
+Psyduck HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Meowth HP [31]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged 
+
+Psyduck foloseste abilitate1 -> 2
+Meowth foloseste atac normal -> 5
+
+---------> A castigat Meowth <---------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+				  V
+Meowth {HP[42], AN[4], Def[5], SDef[3]}
+
+
+------ Se lupta Bulbasaur cu Jigglypuff ------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[42], AS[8], Def[4], SDef[1]}
+Jigglypuff {HP[44], AN[4], Def[4], SDef[5]}
+
+Runda 1
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 2
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Jigglypuff HP [29]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate1 -> 6
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 3
+Bulbasaur HP [39]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+Stunned
+
+Jigglypuff HP [23]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Bulbasaur este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 4
+Bulbasaur HP [35]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Jigglypuff HP [23]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Bulbasaur este stunned
+Jigglypuff foloseste atac normal -> 0
+
+Runda 5
+Bulbasaur HP [35]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff HP [23]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Bulbasaur foloseste abilitate2 -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 6
+Bulbasaur HP [35]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Jigglypuff HP [18]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Bulbasaur foloseste atac special -> 3
+Jigglypuff foloseste atac normal -> 0
+
+Runda 7
+Bulbasaur HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff HP [15]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate1 -> 6
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 8
+Bulbasaur HP [32]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Stunned
+
+Jigglypuff HP [9]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Bulbasaur este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 9
+Bulbasaur HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Jigglypuff HP [9]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Bulbasaur este stunned
+Jigglypuff foloseste atac normal -> 0
+
+Runda 10
+Bulbasaur HP [28]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff HP [9]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Bulbasaur foloseste atac special -> 3
+Jigglypuff foloseste atac normal -> 0
+
+Runda 11
+Bulbasaur HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Jigglypuff HP [6]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Bulbasaur foloseste abilitate2 -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 12
+Bulbasaur HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Jigglypuff HP [1]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate1 -> 6
+Jigglypuff foloseste abilitate2 -> 3
+
+---------> A castigat Bulbasaur <---------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+				  V
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Bulbasaur cu Squirtle ------
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+Squirtle {HP[60], AS[3], Def[5], SDef[5]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[43], AS[9], Def[5], SDef[2]}
+Squirtle {HP[62], AS[8], Def[5], SDef[8]}
+
+Runda 1
+Bulbasaur HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [60]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 1
+Squirtle foloseste abilitate1 -> 4
+
+Runda 2
+Bulbasaur HP [39]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [59]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate1 -> 6
+Squirtle foloseste abilitate2 -> 2
+
+Runda 3
+Bulbasaur HP [37]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [53]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Bulbasaur este stunned
+Squirtle foloseste atac special -> 6
+
+Runda 4
+Bulbasaur HP [31]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Squirtle HP [53]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Bulbasaur foloseste atac special -> 1
+Squirtle foloseste atac special -> 6
+
+Runda 5
+Bulbasaur HP [25]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [52]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 1
+Squirtle foloseste abilitate2 -> 2
+
+Runda 6
+Bulbasaur HP [23]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [51]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Bulbasaur este stunned
+Squirtle foloseste abilitate1 -> 4
+
+Runda 7
+Bulbasaur HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [51]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Bulbasaur foloseste abilitate2 -> 5
+Squirtle foloseste atac special -> 6
+
+Runda 8
+Bulbasaur HP [13]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Squirtle HP [46]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate1 -> 6
+Squirtle foloseste abilitate2 -> 2
+
+Runda 9
+Bulbasaur HP [11]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+Stunned
+
+Squirtle HP [40]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Bulbasaur este stunned
+Squirtle foloseste atac special -> 6
+
+Runda 10
+Bulbasaur HP [5]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Squirtle HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Bulbasaur foloseste atac special -> 1
+Squirtle foloseste abilitate1 -> 4
+
+Runda 11
+Bulbasaur HP [1]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [39]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Squirtle foloseste abilitate2 -> 2
+
+---------> A castigat Squirtle <---------
+Squirtle {HP[60], AS[3], Def[5], SDef[5]}
+				  V
+Squirtle {HP[61], AS[4], Def[6], SDef[6]}
+
+##  Silviu a iesit castigator din arena  ##

@@ -1,0 +1,670 @@
+****** In arena intra Radu si Maxim ******
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Jigglypuff cu Pikachu ------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+Pikachu {HP[35], AS[4], Def[2], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Jigglypuff {HP[36], AN[6], Def[4], SDef[8]}
+Pikachu {HP[45], AS[7], Def[2], SDef[6]}
+
+Runda 1
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste abilitate1 -> 4
+Pikachu foloseste atac special -> 0
+
+Runda 2
+Jigglypuff HP [34]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Pikachu HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Pikachu este stunned
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 3
+Jigglypuff HP [34]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Pikachu este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 4
+Jigglypuff HP [34]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Pikachu HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Pikachu foloseste abilitate1 -> 6
+
+Runda 5
+Jigglypuff HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Pikachu HP [20]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Pikachu foloseste abilitate2 -> 4
+
+Runda 6
+Jigglypuff HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Pikachu HP [20]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Jigglypuff este stunned
+Pikachu foloseste atac special -> 0
+
+Runda 7
+Jigglypuff HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu HP [20]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Jigglypuff foloseste abilitate2 -> 3
+Pikachu foloseste atac special -> 0
+
+Runda 8
+Jigglypuff HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Pikachu HP [17]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Pikachu este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+Runda 9
+Jigglypuff HP [24]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Pikachu HP [13]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Pikachu este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 10
+Jigglypuff HP [24]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Pikachu HP [9]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Jigglypuff foloseste atac normal -> 4
+Pikachu foloseste abilitate1 -> 6
+
+Runda 11
+Jigglypuff HP [18]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Pikachu HP [5]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Pikachu foloseste abilitate2 -> 4
+
+Runda 12
+Jigglypuff HP [14]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+Stunned
+
+Pikachu HP [5]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Jigglypuff este stunned
+Pikachu foloseste atac special -> 0
+
+Runda 13
+Jigglypuff HP [14]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu HP [5]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Jigglypuff foloseste abilitate2 -> 3
+Pikachu foloseste atac special -> 0
+
+Runda 14
+Jigglypuff HP [14]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Pikachu HP [2]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Pikachu este stunned
+Jigglypuff foloseste abilitate1 -> 4
+
+---------> A castigat Jigglypuff <---------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+				  V
+Jigglypuff {HP[35], AN[5], Def[3], SDef[4]}
+
+
+------ Se lupta Meowth cu Charmander ------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+Charmander {HP[50], AN[4], Def[3], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Meowth {HP[41], AN[3], Def[6], SDef[7]}
+Charmander {HP[62], AN[9], Def[3], SDef[2]}
+
+Runda 1
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste atac normal -> 3
+
+Runda 2
+Meowth HP [38]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste atac normal -> 3
+
+Runda 3
+Meowth HP [38]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Dodged 
+
+Charmander HP [45]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 3
+
+Runda 4
+Meowth HP [38]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste abilitate2 -> 7
+
+Runda 5
+Meowth HP [31]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Charmander HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste abilitate1 -> 4
+
+Runda 6
+Meowth HP [27]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+Stunned
+
+Charmander HP [44]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 3
+
+Runda 7
+Meowth HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [44]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste atac normal -> 3
+
+Runda 8
+Meowth HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [44]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 3
+
+Runda 9
+Meowth HP [21]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [43]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste atac normal -> 3
+
+Runda 10
+Meowth HP [21]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+Dodged 
+
+Charmander HP [38]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste abilitate1 -> 4
+
+Runda 11
+Meowth HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Charmander HP [38]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Meowth este stunned
+Charmander foloseste abilitate2 -> 7
+
+Runda 12
+Meowth HP [10]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Charmander HP [38]
+CDs: Abilitate1 [3] / Abilitate2 [6]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste atac normal -> 3
+
+Runda 13
+Meowth HP [10]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Charmander HP [37]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste atac normal -> 3
+
+Runda 14
+Meowth HP [7]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [37]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Meowth foloseste abilitate1 -> 5
+Charmander foloseste atac normal -> 3
+
+Runda 15
+Meowth HP [7]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged 
+
+Charmander HP [32]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste atac normal -> 3
+
+Runda 16
+Meowth HP [4]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Charmander HP [32]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Meowth foloseste abilitate2 -> 1
+Charmander foloseste abilitate1 -> 4
+
+Runda 17
+Meowth HP [4]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Dodged Stunned
+
+Charmander HP [31]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Meowth este stunned
+Charmander foloseste atac normal -> 3
+
+Runda 18
+Meowth HP [1]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Charmander HP [31]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 0
+Charmander foloseste abilitate2 -> 7
+
+---------> A castigat Charmander <---------
+Charmander {HP[50], AN[4], Def[3], SDef[2]}
+				  V
+Charmander {HP[51], AN[5], Def[4], SDef[3]}
+
+
+------ Se lupta Snorlax cu Jigglypuff ------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[62], AN[9], Def[9], SDef[6]}
+Jigglypuff {HP[36], AN[9], Def[4], SDef[5]}
+
+Runda 1
+Snorlax HP [62]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste abilitate1 -> 4
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 2
+Snorlax HP [59]
+CDs: Abilitate1 [5] / Abilitate2 [0]
+Stunned
+
+Jigglypuff HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+Stunned
+
+Snorlax este stunned
+Jigglypuff este stunned
+
+Runda 3
+Snorlax HP [59]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Jigglypuff HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste abilitate2 -> 0
+Jigglypuff foloseste atac normal -> 0
+
+Runda 4
+Snorlax HP [59]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Jigglypuff HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 5
+Snorlax HP [59]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Jigglypuff HP [25]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 6
+Snorlax HP [59]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Jigglypuff HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste atac normal -> 5
+Jigglypuff foloseste abilitate2 -> 3
+
+Runda 7
+Snorlax HP [56]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Jigglypuff HP [15]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Snorlax este stunned
+Jigglypuff foloseste atac normal -> 0
+
+Runda 8
+Snorlax HP [56]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Jigglypuff HP [15]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 9
+Snorlax HP [56]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Snorlax foloseste atac normal -> 5
+Jigglypuff foloseste atac normal -> 0
+
+Runda 10
+Snorlax HP [56]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff HP [5]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Snorlax foloseste atac normal -> 5
+Jigglypuff foloseste abilitate1 -> 4
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[62], AN[3], Def[6], SDef[4]}
+				  V
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Snorlax cu Charmander ------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+Charmander {HP[51], AN[5], Def[4], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Snorlax {HP[63], AN[10], Def[10], SDef[7]}
+Charmander {HP[63], AN[10], Def[4], SDef[3]}
+
+Runda 1
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [51]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Snorlax foloseste abilitate2 -> 0
+Charmander foloseste abilitate1 -> 4
+
+Runda 2
+Snorlax HP [63]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged Stunned
+
+Charmander HP [51]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Snorlax este stunned
+Charmander foloseste abilitate2 -> 7
+
+Runda 3
+Snorlax HP [56]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Charmander HP [51]
+CDs: Abilitate1 [3] / Abilitate2 [6]
+
+Snorlax foloseste abilitate1 -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 4
+Snorlax HP [56]
+CDs: Abilitate1 [5] / Abilitate2 [3]
+
+Charmander HP [47]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Stunned
+
+Charmander este stunned
+Snorlax foloseste atac normal -> 6
+
+Runda 5
+Snorlax HP [56]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Charmander HP [41]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Snorlax foloseste atac normal -> 6
+Charmander foloseste atac normal -> 0
+
+Runda 6
+Snorlax HP [56]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Charmander HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 6
+Charmander foloseste abilitate1 -> 4
+
+Runda 7
+Snorlax HP [52]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Charmander HP [29]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Snorlax este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 8
+Snorlax HP [52]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Charmander HP [29]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Snorlax foloseste abilitate2 -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 9
+Snorlax HP [52]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Charmander HP [29]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Snorlax foloseste abilitate1 -> 4
+Charmander foloseste abilitate2 -> 7
+
+Runda 10
+Snorlax HP [45]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Charmander HP [25]
+CDs: Abilitate1 [1] / Abilitate2 [6]
+Stunned
+
+Charmander este stunned
+Snorlax foloseste atac normal -> 6
+
+Runda 11
+Snorlax HP [45]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Charmander HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Snorlax foloseste atac normal -> 6
+Charmander foloseste abilitate1 -> 4
+
+Runda 12
+Snorlax HP [41]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+Stunned
+
+Charmander HP [13]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+
+Snorlax este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 13
+Snorlax HP [41]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Charmander HP [13]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Snorlax foloseste atac normal -> 6
+Charmander foloseste atac normal -> 0
+
+Runda 14
+Snorlax HP [41]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Charmander HP [7]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Snorlax foloseste abilitate2 -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 15
+Snorlax HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Charmander HP [7]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Snorlax foloseste abilitate1 -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 16
+Snorlax HP [41]
+CDs: Abilitate1 [5] / Abilitate2 [4]
+
+Charmander HP [3]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Charmander este stunned
+Snorlax foloseste atac normal -> 6
+
+---------> A castigat Snorlax <---------
+Snorlax {HP[63], AN[4], Def[7], SDef[5]}
+				  V
+Snorlax {HP[64], AN[5], Def[8], SDef[6]}
+
+##  Radu a iesit castigator din arena  ##

@@ -1,0 +1,802 @@
+****** In arena intra David si Cornel ******
+###########################################
+###############  Luptele 1  ###############
+###########################################
+
+------ Se lupta Bulbasaur cu Neutrel1 ------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[54], AS[10], Def[3], SDef[1]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Bulbasaur HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Bulbasaur foloseste abilitate1 -> 6
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Bulbasaur HP [42]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Neutrel1 HP [4]
+
+Bulbasaur foloseste atac special -> 9
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Bulbasaur <---------
+Bulbasaur {HP[42], AS[5], Def[3], SDef[1]}
+				  V
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+
+
+------ Se lupta Psyduck cu Neutrel1 ------
+Psyduck {HP[43], AN[3], Def[3], SDef[3]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Psyduck {HP[53], AN[6], Def[4], SDef[6]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Psyduck HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Psyduck foloseste atac normal -> 5
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Psyduck HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [5]
+
+Psyduck foloseste atac normal -> 5
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Psyduck <---------
+Psyduck {HP[43], AN[3], Def[3], SDef[3]}
+				  V
+Psyduck {HP[44], AN[4], Def[4], SDef[4]}
+
+###########################################
+###############  Luptele 2  ###############
+###########################################
+
+------ Se lupta Meowth cu Neutrel1 ------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Meowth {HP[41], AN[6], Def[6], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Meowth foloseste abilitate2 -> 1
+Neutrel1 foloseste atac normal -> 0
+
+Runda 2
+Meowth HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Dodged 
+
+Neutrel1 HP [9]
+
+Meowth foloseste abilitate1 -> 5
+Neutrel1 foloseste atac normal -> 0
+
+Runda 3
+Meowth HP [41]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+Dodged 
+
+Neutrel1 HP [4]
+
+Meowth foloseste atac normal -> 5
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Meowth <---------
+Meowth {HP[41], AN[3], Def[4], SDef[2]}
+				  V
+Meowth {HP[42], AN[4], Def[5], SDef[3]}
+
+
+------ Se lupta Vulpix cu Neutrel1 ------
+Vulpix {HP[36], AN[5], Def[2], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Vulpix {HP[36], AN[11], Def[3], SDef[4]}
+Neutrel1 {HP[10], AN[3], Def[1], SDef[1]}
+
+Runda 1
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel1 HP [10]
+
+Vulpix foloseste atac normal -> 10
+Neutrel1 foloseste atac normal -> 0
+
+---------> A castigat Vulpix <---------
+Vulpix {HP[36], AN[5], Def[2], SDef[4]}
+				  V
+Vulpix {HP[37], AN[6], Def[3], SDef[5]}
+
+###########################################
+###############  Luptele 3  ###############
+###########################################
+
+------ Se lupta Pikachu cu Neutrel2 ------
+Pikachu {HP[35], AS[4], Def[2], SDef[3]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Pikachu {HP[35], AS[4], Def[3], SDef[6]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+
+Runda 1
+Pikachu HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel2 HP [20]
+
+Pikachu foloseste abilitate2 -> 4
+Neutrel2 foloseste atac normal -> 1
+
+Runda 2
+Pikachu HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Neutrel2 HP [16]
+Stunned
+
+Neutrel2 este stunned
+Pikachu foloseste atac special -> 3
+
+Runda 3
+Pikachu HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Neutrel2 HP [13]
+
+Pikachu foloseste abilitate1 -> 6
+Neutrel2 foloseste atac normal -> 1
+
+Runda 4
+Pikachu HP [34]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Neutrel2 HP [7]
+
+Pikachu foloseste atac special -> 3
+Neutrel2 foloseste atac normal -> 1
+
+Runda 5
+Pikachu HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Neutrel2 HP [4]
+
+Pikachu foloseste atac special -> 3
+Neutrel2 foloseste atac normal -> 1
+
+Runda 6
+Pikachu HP [32]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Neutrel2 HP [1]
+
+Pikachu foloseste atac special -> 3
+Neutrel2 foloseste atac normal -> 1
+
+---------> A castigat Pikachu <---------
+Pikachu {HP[35], AS[4], Def[2], SDef[3]}
+				  V
+Pikachu {HP[36], AS[5], Def[3], SDef[4]}
+
+
+------ Se lupta Eevee cu Neutrel2 ------
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+--- Caracteristici cu obiecte echipate ---
+Eevee {HP[41], AS[9], Def[3], SDef[3]}
+Neutrel2 {HP[20], AN[4], Def[1], SDef[1]}
+
+Runda 1
+Eevee HP [39]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Neutrel2 HP [20]
+
+Eevee foloseste abilitate1 -> 5
+Neutrel2 foloseste atac normal -> 1
+
+Runda 2
+Eevee HP [38]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Neutrel2 HP [15]
+
+Eevee foloseste abilitate2 -> 3
+Neutrel2 foloseste atac normal -> 1
+
+Runda 3
+Eevee HP [37]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Neutrel2 HP [12]
+Stunned
+
+Neutrel2 este stunned
+Eevee foloseste atac special -> 8
+
+Runda 4
+Eevee HP [37]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Neutrel2 HP [4]
+
+Eevee foloseste atac special -> 8
+Neutrel2 foloseste atac normal -> 1
+
+---------> A castigat Eevee <---------
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+				  V
+Eevee {HP[40], AS[5], Def[4], SDef[4]}
+
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Pikachu cu Eevee ------
+Pikachu {HP[36], AS[5], Def[3], SDef[4]}
+Eevee {HP[40], AS[5], Def[4], SDef[4]}
+--- Caracteristici cu obiecte echipate ---
+Pikachu {HP[36], AS[5], Def[4], SDef[7]}
+Eevee {HP[42], AS[10], Def[4], SDef[4]}
+
+Runda 1
+Pikachu HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste abilitate2 -> 4
+Eevee foloseste abilitate2 -> 3
+
+Runda 2
+Pikachu HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged Stunned
+
+Eevee HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Pikachu este stunned
+Eevee este stunned
+
+Runda 3
+Pikachu HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Eevee HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Pikachu foloseste abilitate1 -> 6
+Eevee foloseste abilitate1 -> 5
+
+Runda 4
+Pikachu HP [31]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Eevee HP [30]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Pikachu foloseste atac special -> 1
+Eevee foloseste atac special -> 3
+
+Runda 5
+Pikachu HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Eevee HP [29]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Eevee foloseste atac special -> 3
+
+Runda 6
+Pikachu HP [25]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Eevee HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Eevee foloseste abilitate2 -> 3
+
+Runda 7
+Pikachu HP [22]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+Stunned
+
+Eevee HP [27]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Pikachu este stunned
+Eevee foloseste abilitate1 -> 5
+
+Runda 8
+Pikachu HP [17]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee HP [27]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Pikachu foloseste abilitate1 -> 6
+Eevee foloseste atac special -> 3
+
+Runda 9
+Pikachu HP [14]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Eevee HP [21]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Pikachu foloseste abilitate2 -> 4
+Eevee foloseste atac special -> 3
+
+Runda 10
+Pikachu HP [14]
+CDs: Abilitate1 [3] / Abilitate2 [5]
+Dodged 
+
+Eevee HP [17]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+Stunned
+
+Eevee este stunned
+Pikachu foloseste atac special -> 1
+
+Runda 11
+Pikachu HP [14]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Eevee HP [16]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Eevee foloseste atac special -> 3
+
+Runda 12
+Pikachu HP [11]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Eevee HP [15]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Eevee foloseste abilitate1 -> 5
+
+Runda 13
+Pikachu HP [6]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee HP [14]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Pikachu foloseste abilitate1 -> 6
+Eevee foloseste atac special -> 3
+
+Runda 14
+Pikachu HP [3]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Eevee HP [8]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 1
+Eevee foloseste abilitate2 -> 3
+
+---------> A castigat Eevee <---------
+Eevee {HP[40], AS[5], Def[4], SDef[4]}
+				  V
+Eevee {HP[41], AS[6], Def[5], SDef[5]}
+
+
+------ Se lupta Meowth cu Vulpix ------
+Meowth {HP[42], AN[4], Def[5], SDef[3]}
+Vulpix {HP[37], AN[6], Def[3], SDef[5]}
+--- Caracteristici cu obiecte echipate ---
+Meowth {HP[42], AN[7], Def[7], SDef[5]}
+Vulpix {HP[37], AN[12], Def[4], SDef[5]}
+
+Runda 1
+Meowth HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate2 -> 1
+Vulpix foloseste atac normal -> 5
+
+Runda 2
+Meowth HP [42]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Dodged 
+
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste abilitate1 -> 5
+Vulpix foloseste abilitate2 -> 2
+
+Runda 3
+Meowth HP [42]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+Dodged 
+
+Vulpix HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [7]
+Dodged 
+
+Meowth foloseste atac normal -> 3
+Vulpix foloseste abilitate1 -> 8
+
+Runda 4
+Meowth HP [34]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Vulpix HP [33]
+CDs: Abilitate1 [6] / Abilitate2 [6]
+
+Meowth este stunned
+Vulpix foloseste atac normal -> 5
+
+Runda 5
+Meowth HP [29]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Vulpix HP [33]
+CDs: Abilitate1 [5] / Abilitate2 [5]
+
+Meowth foloseste abilitate2 -> 1
+Vulpix foloseste atac normal -> 5
+
+Runda 6
+Meowth HP [29]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Dodged 
+
+Vulpix HP [32]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+
+Meowth foloseste atac normal -> 3
+Vulpix foloseste atac normal -> 5
+
+Runda 7
+Meowth HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Vulpix HP [29]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Meowth foloseste abilitate1 -> 5
+Vulpix foloseste atac normal -> 5
+
+Runda 8
+Meowth HP [24]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Dodged 
+
+Vulpix HP [24]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Meowth foloseste atac normal -> 3
+Vulpix foloseste atac normal -> 5
+
+Runda 9
+Meowth HP [19]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Vulpix HP [21]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Meowth foloseste abilitate2 -> 1
+Vulpix foloseste atac normal -> 5
+
+Runda 10
+Meowth HP [19]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Dodged 
+
+Vulpix HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Meowth foloseste atac normal -> 3
+Vulpix foloseste abilitate2 -> 2
+
+Runda 11
+Meowth HP [17]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Vulpix HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [7]
+Dodged 
+
+Meowth foloseste atac normal -> 3
+Vulpix foloseste abilitate1 -> 8
+
+Runda 12
+Meowth HP [9]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Vulpix HP [17]
+CDs: Abilitate1 [6] / Abilitate2 [6]
+
+Meowth este stunned
+Vulpix foloseste atac normal -> 5
+
+Runda 13
+Meowth HP [4]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Vulpix HP [17]
+CDs: Abilitate1 [5] / Abilitate2 [5]
+
+Meowth foloseste atac normal -> 3
+Vulpix foloseste atac normal -> 5
+
+---------> A castigat Vulpix <---------
+Vulpix {HP[37], AN[6], Def[3], SDef[5]}
+				  V
+Vulpix {HP[38], AN[7], Def[4], SDef[6]}
+
+
+------ Se lupta Bulbasaur cu Psyduck ------
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+Psyduck {HP[44], AN[4], Def[4], SDef[4]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[55], AS[11], Def[4], SDef[2]}
+Psyduck {HP[54], AN[7], Def[5], SDef[7]}
+
+Runda 1
+Bulbasaur HP [43]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Psyduck HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Psyduck foloseste abilitate1 -> 2
+
+Runda 2
+Bulbasaur HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Psyduck HP [39]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 4
+Psyduck foloseste atac normal -> 3
+
+Runda 3
+Bulbasaur HP [38]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Psyduck HP [35]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate1 -> 6
+Psyduck foloseste abilitate2 -> 2
+
+Runda 4
+Bulbasaur HP [36]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+Stunned
+
+Psyduck HP [29]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Bulbasaur este stunned
+Psyduck foloseste atac normal -> 3
+
+Runda 5
+Bulbasaur HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Psyduck HP [29]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Bulbasaur foloseste abilitate2 -> 5
+Psyduck foloseste atac normal -> 3
+
+Runda 6
+Bulbasaur HP [30]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+
+Psyduck HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur foloseste atac special -> 4
+Psyduck foloseste abilitate1 -> 2
+
+Runda 7
+Bulbasaur HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Psyduck HP [20]
+CDs: Abilitate1 [4] / Abilitate2 [2]
+
+Bulbasaur foloseste atac special -> 4
+Psyduck foloseste atac normal -> 3
+
+Runda 8
+Bulbasaur HP [25]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Psyduck HP [16]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Bulbasaur foloseste abilitate1 -> 6
+Psyduck foloseste atac normal -> 3
+
+Runda 9
+Bulbasaur HP [22]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Psyduck HP [10]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Psyduck foloseste atac normal -> 3
+
+Runda 10
+Bulbasaur HP [19]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Psyduck HP [5]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Bulbasaur foloseste atac special -> 4
+Psyduck foloseste abilitate2 -> 2
+
+Runda 11
+Bulbasaur HP [17]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+Stunned
+
+Psyduck HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Bulbasaur este stunned
+Psyduck foloseste abilitate1 -> 2
+
+Runda 12
+Bulbasaur HP [15]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Psyduck HP [1]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+
+Bulbasaur foloseste atac special -> 4
+Psyduck foloseste atac normal -> 3
+
+---------> A castigat Bulbasaur <---------
+Bulbasaur {HP[43], AS[6], Def[4], SDef[2]}
+				  V
+Bulbasaur {HP[44], AS[7], Def[5], SDef[3]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Bulbasaur cu Eevee ------
+Bulbasaur {HP[44], AS[7], Def[5], SDef[3]}
+Eevee {HP[41], AS[6], Def[5], SDef[5]}
+--- Caracteristici cu obiecte echipate ---
+Bulbasaur {HP[56], AS[12], Def[5], SDef[3]}
+Eevee {HP[43], AS[11], Def[5], SDef[5]}
+
+Runda 1
+Bulbasaur HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Eevee foloseste abilitate2 -> 3
+
+Runda 2
+Bulbasaur HP [41]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Eevee HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur este stunned
+Eevee foloseste abilitate1 -> 5
+
+Runda 3
+Bulbasaur HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee HP [36]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Bulbasaur foloseste abilitate1 -> 6
+Eevee foloseste atac special -> 8
+
+Runda 4
+Bulbasaur HP [28]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Eevee HP [30]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Bulbasaur foloseste atac special -> 7
+Eevee foloseste atac special -> 8
+
+Runda 5
+Bulbasaur HP [20]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee HP [23]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Bulbasaur foloseste abilitate2 -> 5
+Eevee foloseste abilitate2 -> 3
+
+Runda 6
+Bulbasaur HP [17]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Stunned
+
+Eevee HP [18]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Bulbasaur este stunned
+Eevee foloseste abilitate1 -> 5
+
+Runda 7
+Bulbasaur HP [12]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Eevee HP [18]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Bulbasaur foloseste atac special -> 7
+Eevee foloseste atac special -> 8
+
+Runda 8
+Bulbasaur HP [4]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee HP [11]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Bulbasaur foloseste atac special -> 7
+Eevee foloseste atac special -> 8
+
+---------> A castigat Eevee <---------
+Eevee {HP[41], AS[6], Def[5], SDef[5]}
+				  V
+Eevee {HP[42], AS[7], Def[6], SDef[6]}
+
+##  Cornel a iesit castigator din arena  ##

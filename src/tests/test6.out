@@ -1,0 +1,896 @@
+****** In arena intra Denis si Marian ******
+############################################
+###########  Luptele semifinale  ###########
+############################################
+
+------ Se lupta Jigglypuff cu Eevee ------
+Jigglypuff {HP[34], AN[4], Def[2], SDef[3]}
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+--- Caracteristici cu obiecte echipate ---
+Jigglypuff {HP[36], AN[9], Def[3], SDef[3]}
+Eevee {HP[49], AS[7], Def[5], SDef[5]}
+
+Runda 1
+Jigglypuff HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee HP [39]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste abilitate1 -> 4
+Eevee foloseste abilitate2 -> 3
+
+Runda 2
+Jigglypuff HP [31]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+Stunned
+
+Eevee HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Jigglypuff este stunned
+Eevee este stunned
+
+Runda 3
+Jigglypuff HP [31]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff foloseste abilitate2 -> 3
+Eevee foloseste abilitate1 -> 5
+
+Runda 4
+Jigglypuff HP [26]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Eevee HP [32]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Eevee este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 5
+Jigglypuff HP [26]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Eevee HP [28]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Eevee foloseste abilitate2 -> 3
+
+Runda 6
+Jigglypuff HP [23]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Eevee HP [24]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Jigglypuff este stunned
+Eevee foloseste atac special -> 4
+
+Runda 7
+Jigglypuff HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee HP [24]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Jigglypuff foloseste abilitate1 -> 4
+Eevee foloseste atac special -> 4
+
+Runda 8
+Jigglypuff HP [15]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Eevee HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Eevee este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 9
+Jigglypuff HP [15]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee HP [16]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Jigglypuff foloseste abilitate2 -> 3
+Eevee foloseste abilitate1 -> 5
+
+Runda 10
+Jigglypuff HP [10]
+CDs: Abilitate1 [2] / Abilitate2 [4]
+
+Eevee HP [13]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Eevee este stunned
+Jigglypuff foloseste atac normal -> 4
+
+Runda 11
+Jigglypuff HP [10]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Eevee HP [9]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Eevee foloseste atac special -> 4
+
+Runda 12
+Jigglypuff HP [6]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee HP [5]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Jigglypuff foloseste atac normal -> 4
+Eevee foloseste abilitate2 -> 3
+
+Runda 13
+Jigglypuff HP [3]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+Stunned
+
+Eevee HP [1]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Jigglypuff este stunned
+Eevee foloseste abilitate1 -> 5
+
+---------> A castigat Eevee <---------
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+				  V
+Eevee {HP[40], AS[5], Def[4], SDef[4]}
+
+
+------ Se lupta Eevee cu Squirtle ------
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+Squirtle {HP[60], AS[3], Def[5], SDef[5]}
+--- Caracteristici cu obiecte echipate ---
+Eevee {HP[49], AS[4], Def[4], SDef[6]}
+Squirtle {HP[62], AS[8], Def[5], SDef[5]}
+
+Runda 1
+Eevee HP [39]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [60]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste abilitate2 -> 2
+
+Runda 2
+Eevee HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Squirtle HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Eevee este stunned
+Squirtle este stunned
+
+Runda 3
+Eevee HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Squirtle HP [57]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee foloseste abilitate1 -> 5
+Squirtle foloseste abilitate1 -> 4
+
+Runda 4
+Eevee HP [33]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Squirtle HP [52]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate2 -> 2
+
+Runda 5
+Eevee HP [31]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [52]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste atac special -> 2
+
+Runda 6
+Eevee HP [29]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Squirtle HP [52]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste atac special -> 2
+
+Runda 7
+Eevee HP [27]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Squirtle HP [49]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Squirtle este stunned
+Eevee foloseste abilitate1 -> 5
+
+Runda 8
+Eevee HP [27]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Squirtle HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate2 -> 2
+
+Runda 9
+Eevee HP [25]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+Stunned
+
+Squirtle HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste atac special -> 2
+
+Runda 10
+Eevee HP [23]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Squirtle HP [44]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate1 -> 4
+
+Runda 11
+Eevee HP [19]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [44]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee foloseste abilitate1 -> 5
+Squirtle foloseste abilitate2 -> 2
+
+Runda 12
+Eevee HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [39]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste atac special -> 2
+
+Runda 13
+Eevee HP [15]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [39]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste atac special -> 2
+
+Runda 14
+Eevee HP [13]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Squirtle HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Squirtle este stunned
+Eevee foloseste atac special -> 0
+
+Runda 15
+Eevee HP [13]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Squirtle HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste abilitate1 -> 5
+Squirtle foloseste abilitate2 -> 2
+
+Runda 16
+Eevee HP [11]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Squirtle HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste atac special -> 2
+
+Runda 17
+Eevee HP [9]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [31]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste abilitate1 -> 4
+
+Runda 18
+Eevee HP [5]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+
+Squirtle HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Squirtle este stunned
+Eevee foloseste atac special -> 0
+
+Runda 19
+Eevee HP [5]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Squirtle HP [28]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Eevee foloseste abilitate1 -> 5
+Squirtle foloseste abilitate2 -> 2
+
+Runda 20
+Eevee HP [3]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+Stunned
+
+Squirtle HP [23]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste atac special -> 2
+
+Runda 21
+Eevee HP [1]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [23]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate1 -> 4
+
+---------> A castigat Squirtle <---------
+Squirtle {HP[60], AS[3], Def[5], SDef[5]}
+				  V
+Squirtle {HP[61], AS[4], Def[6], SDef[6]}
+
+
+------ Se lupta Pikachu cu Charmander ------
+Pikachu {HP[35], AS[4], Def[2], SDef[3]}
+Charmander {HP[50], AN[4], Def[3], SDef[2]}
+--- Caracteristici cu obiecte echipate ---
+Pikachu {HP[45], AS[4], Def[5], SDef[5]}
+Charmander {HP[60], AN[4], Def[5], SDef[4]}
+
+Runda 1
+Pikachu HP [35]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste abilitate2 -> 7
+
+Runda 2
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 3
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [50]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+
+Pikachu foloseste abilitate2 -> 4
+Charmander foloseste abilitate1 -> 4
+
+Runda 4
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged Stunned
+
+Charmander HP [46]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+Stunned
+
+Pikachu este stunned
+Charmander este stunned
+
+Runda 5
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Charmander HP [46]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 6
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Charmander HP [46]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 7
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [46]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Pikachu foloseste abilitate1 -> 6
+Charmander foloseste atac normal -> 0
+
+Runda 8
+Pikachu HP [28]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Charmander HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 9
+Pikachu HP [28]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Charmander HP [40]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste abilitate2 -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 10
+Pikachu HP [28]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+Dodged 
+
+Charmander HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Charmander este stunned
+Pikachu foloseste atac special -> 0
+
+Runda 11
+Pikachu HP [28]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+
+Charmander HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 12
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Charmander HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 13
+Pikachu HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Charmander HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Pikachu foloseste abilitate1 -> 6
+Charmander foloseste abilitate2 -> 7
+
+Runda 14
+Pikachu HP [21]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Charmander HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [6]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste abilitate1 -> 4
+
+Runda 15
+Pikachu HP [17]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+Stunned
+
+Charmander HP [30]
+CDs: Abilitate1 [4] / Abilitate2 [5]
+
+Pikachu este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 16
+Pikachu HP [17]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Charmander HP [30]
+CDs: Abilitate1 [3] / Abilitate2 [4]
+
+Pikachu foloseste abilitate2 -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 17
+Pikachu HP [17]
+CDs: Abilitate1 [1] / Abilitate2 [5]
+Dodged 
+
+Charmander HP [26]
+CDs: Abilitate1 [2] / Abilitate2 [3]
+Stunned
+
+Charmander este stunned
+Pikachu foloseste atac special -> 0
+
+Runda 18
+Pikachu HP [17]
+CDs: Abilitate1 [0] / Abilitate2 [4]
+
+Charmander HP [26]
+CDs: Abilitate1 [1] / Abilitate2 [2]
+
+Pikachu foloseste abilitate1 -> 6
+Charmander foloseste atac normal -> 0
+
+Runda 19
+Pikachu HP [17]
+CDs: Abilitate1 [4] / Abilitate2 [3]
+
+Charmander HP [20]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste abilitate1 -> 4
+
+Runda 20
+Pikachu HP [13]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+Stunned
+
+Charmander HP [20]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Pikachu este stunned
+Charmander foloseste abilitate2 -> 7
+
+Runda 21
+Pikachu HP [6]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+
+Charmander HP [20]
+CDs: Abilitate1 [3] / Abilitate2 [6]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 22
+Pikachu HP [6]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Charmander HP [20]
+CDs: Abilitate1 [2] / Abilitate2 [5]
+
+Pikachu foloseste abilitate2 -> 4
+Charmander foloseste atac normal -> 0
+
+Runda 23
+Pikachu HP [6]
+CDs: Abilitate1 [0] / Abilitate2 [5]
+Dodged 
+
+Charmander HP [16]
+CDs: Abilitate1 [1] / Abilitate2 [4]
+Stunned
+
+Charmander este stunned
+Pikachu foloseste abilitate1 -> 6
+
+Runda 24
+Pikachu HP [6]
+CDs: Abilitate1 [4] / Abilitate2 [4]
+
+Charmander HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 25
+Pikachu HP [6]
+CDs: Abilitate1 [3] / Abilitate2 [3]
+
+Charmander HP [10]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste abilitate1 -> 4
+
+Runda 26
+Pikachu HP [2]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+Stunned
+
+Charmander HP [10]
+CDs: Abilitate1 [4] / Abilitate2 [1]
+
+Pikachu este stunned
+Charmander foloseste atac normal -> 0
+
+Runda 27
+Pikachu HP [2]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Charmander HP [10]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Pikachu foloseste atac special -> 0
+Charmander foloseste atac normal -> 0
+
+Runda 28
+Pikachu HP [2]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Charmander HP [10]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Pikachu foloseste abilitate1 -> 6
+Charmander foloseste atac normal -> 0
+
+Runda 29
+Pikachu HP [2]
+CDs: Abilitate1 [4] / Abilitate2 [0]
+
+Charmander HP [4]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Pikachu foloseste abilitate2 -> 4
+Charmander foloseste abilitate2 -> 7
+
+---------> A castigat Pikachu <---------
+Pikachu {HP[35], AS[4], Def[2], SDef[3]}
+				  V
+Pikachu {HP[36], AS[5], Def[3], SDef[4]}
+
+############################################
+##############  Lupta finala  ##############
+############################################
+
+------ Se lupta Eevee cu Squirtle ------
+Eevee {HP[39], AS[4], Def[3], SDef[3]}
+Squirtle {HP[61], AS[4], Def[6], SDef[6]}
+--- Caracteristici cu obiecte echipate ---
+Eevee {HP[49], AS[4], Def[4], SDef[6]}
+Squirtle {HP[63], AS[9], Def[6], SDef[6]}
+
+Runda 1
+Eevee HP [39]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [61]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste atac special -> 3
+
+Runda 2
+Eevee HP [36]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [61]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste abilitate2 -> 2
+
+Runda 3
+Eevee HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+Stunned
+
+Squirtle HP [58]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+Stunned
+
+Eevee este stunned
+Squirtle este stunned
+
+Runda 4
+Eevee HP [34]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Squirtle HP [58]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate1 -> 4
+
+Runda 5
+Eevee HP [30]
+CDs: Abilitate1 [0] / Abilitate2 [1]
+
+Squirtle HP [58]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate2 -> 2
+
+Runda 6
+Eevee HP [28]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [58]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste atac special -> 3
+
+Runda 7
+Eevee HP [25]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Squirtle HP [58]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Eevee foloseste abilitate1 -> 5
+Squirtle foloseste atac special -> 3
+
+Runda 8
+Eevee HP [22]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Squirtle HP [53]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate1 -> 4
+
+Runda 9
+Eevee HP [18]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+
+Squirtle HP [53]
+CDs: Abilitate1 [3] / Abilitate2 [0]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste abilitate2 -> 2
+
+Runda 10
+Eevee HP [16]
+CDs: Abilitate1 [1] / Abilitate2 [3]
+Stunned
+
+Squirtle HP [50]
+CDs: Abilitate1 [2] / Abilitate2 [2]
+Stunned
+
+Eevee este stunned
+Squirtle este stunned
+
+Runda 11
+Eevee HP [16]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Squirtle HP [50]
+CDs: Abilitate1 [1] / Abilitate2 [1]
+
+Eevee foloseste abilitate1 -> 5
+Squirtle foloseste atac special -> 3
+
+Runda 12
+Eevee HP [13]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Squirtle HP [45]
+CDs: Abilitate1 [0] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate2 -> 2
+
+Runda 13
+Eevee HP [11]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Squirtle HP [45]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste abilitate1 -> 4
+
+Runda 14
+Eevee HP [7]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Squirtle HP [45]
+CDs: Abilitate1 [3] / Abilitate2 [1]
+
+Eevee foloseste abilitate2 -> 3
+Squirtle foloseste atac special -> 3
+
+Runda 15
+Eevee HP [4]
+CDs: Abilitate1 [0] / Abilitate2 [3]
+
+Squirtle HP [42]
+CDs: Abilitate1 [2] / Abilitate2 [0]
+Stunned
+
+Squirtle este stunned
+Eevee foloseste abilitate1 -> 5
+
+Runda 16
+Eevee HP [4]
+CDs: Abilitate1 [3] / Abilitate2 [2]
+
+Squirtle HP [37]
+CDs: Abilitate1 [1] / Abilitate2 [0]
+
+Eevee foloseste atac special -> 0
+Squirtle foloseste abilitate2 -> 2
+
+Runda 17
+Eevee HP [2]
+CDs: Abilitate1 [2] / Abilitate2 [1]
+Stunned
+
+Squirtle HP [37]
+CDs: Abilitate1 [0] / Abilitate2 [2]
+
+Eevee este stunned
+Squirtle foloseste abilitate1 -> 4
+
+---------> A castigat Squirtle <---------
+Squirtle {HP[61], AS[4], Def[6], SDef[6]}
+				  V
+Squirtle {HP[62], AS[5], Def[7], SDef[7]}
+
+##  Marian a iesit castigator din arena  ##
